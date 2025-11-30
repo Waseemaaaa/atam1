@@ -1,0 +1,22 @@
+.section .data
+str: .asciz "this is A sentence"
+
+.section .bss
+.lcomm count, 4
+
+.section .text
+
+    movl count(%rip), %eax
+    cmpl $6, %eax
+    je success
+
+error:
+    mov $60, %rax
+    mov $1, %rdi
+    syscall
+
+success:
+    mov $60, %rax
+    xor %rdi, %rdi
+    syscall
+ 

@@ -1,0 +1,22 @@
+.section .data
+exp: .asciz "4,3+2-"
+
+.section .bss
+.lcomm res, 4
+
+.section .text 
+    movl res(%rip), %eax 
+    cmpl $5, %eax
+    je success
+
+error:
+    mov $60, %rax
+    mov $1, %rdi
+    syscall
+
+success:
+    mov $60, %rax
+    xor %rdi, %rdi
+    syscall
+ 
+

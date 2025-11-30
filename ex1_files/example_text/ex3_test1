@@ -1,0 +1,69 @@
+.section .data
+str: .asciz "rrrrrrrrTTrrrrrrr"
+test_enc: .asciz "8r2T7r"
+new_line: .asciz "\n"
+
+.section .bss
+# CHANGE THIS VALUE FOR LONGER BUFFER
+.lcomm enc, 7
+
+.section .text
+
+	# print the student's result string 
+	# and the expected result string using syscall write
+
+    mov $1, %rax
+    mov $1, %rdi
+    mov $enc, %rsi
+    mov $6, %rdx # CHANGE THIS VALUE TO PRINT MORE CHARACTERS 
+    syscall
+   
+    # print a new line 
+    mov $1, %rax
+    mov $1, %rdi
+    mov $new_line, %rsi
+    mov $1, %rdx
+    syscall
+    
+    mov $1, %rax
+    mov $1, %rdi
+    mov $test_enc, %rsi
+    mov $6, %rdx # CHANGE THIS VALUE TO PRINT MORE CHARACTERS
+    syscall
+   
+    # print a new line 
+    mov $1, %rax
+    mov $1, %rdi
+    mov $new_line, %rsi
+    mov $1, %rdx
+    syscall
+
+    leaq enc, %rcx
+    leaq test_enc, %rdx
+
+	mov $0, %rsi       
+	mov $6, %rdi # CHANGE THIS VALUE TO COMPARE MORE CHARACTERS 
+
+compare_loop:
+    cmp %rdi, %rsi     
+    je exit_ok           # strings match
+
+    movb (%rcx, %rsi), %al   
+    movb (%rdx, %rsi), %bl     
+
+    cmp %al, %bl             
+    jne exit_err           # if not equal, exit 1
+
+    inc %rsi                 
+    jmp compare_loop
+
+exit_ok:
+    mov $60, %rax       # syscall: exit
+    xor %rdi, %rdi      # exit code 0
+    syscall
+
+exit_err:
+    mov $60, %rax       # syscall: exit
+    mov $1, %rdi        # exit code 1
+    syscall
+    

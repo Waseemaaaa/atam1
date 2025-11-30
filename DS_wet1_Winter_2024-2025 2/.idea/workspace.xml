@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_CXX_FLAGS=&quot;-Wall -pedantic-errors -Werror&quot;" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3fbbac0-9bdf-4ed9-8dc9-b9056785370d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/.idea/DS_wet1_Winter_2024-2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/AVLtree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/Herd.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/Horse.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/.idea/avlTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/finalTest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/insertTest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/removeTest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/rotateTest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/test1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/test2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/test3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/avlTests/test4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6634a318d641289f5d17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a7590c8dddb548e9f29e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-17cb755997f43c261180.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/main.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/tests/test0.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/tests/test10.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/tests/test20.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/tests/test30.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS_wet1_Winter_2024-2025/tests/test40.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MAVO hw/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MAVO hw/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MAVO hw/untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MAVO hw/untitled3/.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MAVO hw/untitled4/.idea/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MAVO hw/untitled5/.idea/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MAVO hw/untitled6/.idea/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../סמסטר ב/MTAM/mtm_0/supplied/part1/.idea/part1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/mtm_bug.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/mtmhw0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/dry/groceries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/dry/malabi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/dry/pancakes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/.idea/part1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/mtm_bug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/mtm_bug.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/mtm_bug.dSYM/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/mtm_bug.dSYM/Contents/Resources/DWARF/mtm_bug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/mtm_bug.dSYM/Contents/Resources/Relocations/aarch64/mtm_bug.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/mtm_tot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/mtm_tot.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/suFb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/sub.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/subb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/subb/mtm_bug.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/subb/mtm_tot.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/test1.expected" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/test1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/test1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/test2.expected" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/test2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part1/test2.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test1.expected" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test2.expected" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test3.expected" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test3.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test4.expected" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_0/supplied/part2/test4.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTAM/mtm_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mtm_2" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qFWU0gPoTmNMUjK7zwNZBMN1S7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;CMake Application.DS_wet1_Winter_2024_2025.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DS_wet1_Winter_2024_2025" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/tests/test10.in" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="DS_wet1_Winter_2024_2025" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="DS_wet1_Winter_2024_2025">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3fbbac0-9bdf-4ed9-8dc9-b9056785370d" name="Changes" comment="" />
+      <created>1734258815983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734258815983</updated>
+      <workItem from="1734258817032" duration="73409000" />
+      <workItem from="1734970760241" duration="18000" />
+      <workItem from="1734991888648" duration="543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

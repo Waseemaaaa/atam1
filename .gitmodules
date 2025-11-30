@@ -1,0 +1,12 @@
+[submodule "ww1/TechnionDataStructures"]
+	path = ww1/TechnionDataStructures
+	url = https://github.com/PNone/TechnionDataStructures.git
+[submodule "ww1/MatamGenericTester"]
+	path = ww1/MatamGenericTester
+	url = https://github.com/PNone/MatamGenericTester.git
+[submodule "WET2/TechnionDataStructures"]
+	path = WET2/TechnionDataStructures
+	url = https://github.com/PNone/TechnionDataStructures.git
+[submodule "WET2/MatamGenericTester"]
+	path = WET2/MatamGenericTester
+	url = https://github.com/PNone/MatamGenericTester.git
